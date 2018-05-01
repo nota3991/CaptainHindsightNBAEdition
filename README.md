@@ -69,6 +69,7 @@ Application of Knowledge:
 
 •	We are not saying that if you have the 31st pick you should trade it for the 45th pick because of the true order. Being the 31st pick you should have more confidence, due to the higher pick by probability and chance on paper. If you are the 45th pick though, you should have extreme confidence because even though you are a later pick, the data tells your pick will pan out.
 
+·We are using Windows system, and our Tools is written in Final project paper.
 
 
 
