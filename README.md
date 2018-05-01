@@ -71,5 +71,8 @@ Application of Knowledge:
 
 ·We are using Windows system, and our Tools is written in Final project paper.
 
+Link to video: https://www.screencast.com/users/noeltaterway/folders/Jing/media/ae40aac9-c833-4441-baa9-4bb191a0b4fa
+
+Link to paper: 
 
 
